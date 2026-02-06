@@ -20,8 +20,8 @@ Estudiante Desarrollador/Analista de último ciclo en **IDAT** (Egreso 2026), en
 
 # 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Darkzz10&theme=radical&hide_border=false" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkzz10&theme=radical&layout=compact" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkzz10&theme=radical&show_icons=true" width="400" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkzz10&theme=radical&layout=compact" width="300" alt="Langs" />
 </p>
 
 ---
